@@ -36,7 +36,7 @@ const Footer = ({ siteInfo }) => {
         <a
           href='https://lleo.cn'
           className='underline text-gray-500 dark:text-gray-300'>
-          Leo {siteConfig('VERSION')}
+          Leo {siteConfig(' ')}
         </a>
       </div>
 
