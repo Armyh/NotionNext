@@ -50,7 +50,7 @@ const Footer = ({ siteInfo }) => {
       <div className='text-xs font-serif'>
         Powered By{' '}
         <a
-          href='https://github.com/tangly1024/NotionNext'
+          href='https://168199.xyz'
           className='underline text-gray-500 dark:text-gray-300'>
           大象研习社 {siteConfig('')}
         </a>
