@@ -50,9 +50,9 @@ const Footer = ({ siteInfo }) => {
       <div className='text-xs font-serif'>
         Powered By{' '}
         <a
-          href='https://168199.xyz'
+          href='https://www.lleo.cn'
           className='underline text-gray-500 dark:text-gray-300'>
-          大象研习社 {siteConfig('')}
+          Leo {siteConfig('')}
         </a>
       </div>
       {/* SEO title */}
