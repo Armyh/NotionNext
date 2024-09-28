@@ -52,7 +52,7 @@ const Footer = ({ siteInfo }) => {
         <a
           href='https://github.com/tangly1024/NotionNext'
           className='underline text-gray-500 dark:text-gray-300'>
-          NotionNext {siteConfig('')}
+          大象研习社 {siteConfig('')}
         </a>
       </div>
       {/* SEO title */}
