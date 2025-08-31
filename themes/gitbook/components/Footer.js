@@ -54,7 +54,7 @@ const Footer = ({ siteInfo }) => {
         <a
           href='https://boke.daxiang.de'
           className='underline text-gray-500 dark:text-gray-300'>
-          DaXiang {siteConfig('VERSION')}
+          Leo
         </a>
       </div>
       {/* SEO title */}
